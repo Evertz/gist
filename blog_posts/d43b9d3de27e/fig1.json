@@ -1,0 +1,21 @@
+{
+  "Domain": {
+    "TagList": {
+      "Tags": [
+        {
+          "Name": "Typescript"
+        },
+        {
+          "Name": "Angular"
+        },
+        {
+          "Name": "Web"
+        }
+      ]
+    },
+    "Time": {
+      "Nanos": 0,
+      "Rate": "NDF25"
+    }
+  }
+}
